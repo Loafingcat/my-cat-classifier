@@ -1,0 +1,25 @@
+# 데이터 (용량 큼 + 개인 사진)
+data/
+test_images/
+
+# 학습된 모델
+models/
+
+# 가상환경
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
